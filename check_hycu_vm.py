@@ -4,7 +4,7 @@
 # Checkmk local plugin - HYCU All VMs Backup Status
 #
 # Version: 3.4
-# Author: RIOU GLASS
+# Author: SEBIT
 #
 # Description:
 #   - Se connecte à l’API HYCU
