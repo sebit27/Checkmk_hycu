@@ -22,7 +22,7 @@ import urllib3
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 # --- CONFIGURATION ---
-HYCU_HOST = "xxxxx"              # Remplace par l'IP ou hostname de ton Hycu
+HYCU_HOST = ""hycu.example.com"              # Remplace par l'IP ou hostname de ton Hycu
 API_TOKEN = "xxxxxx"     # Ton token API
 PAGE_SIZE = 100
 URL = f"https://{HYCU_HOST}:8443/rest/v1.0/targets?pageSize={PAGE_SIZE}&pageNumber=1&includeDatastores=false&forceSync=false"
