@@ -4,7 +4,7 @@
 # Checkmk local plugin - HYCU ALL Target Status
 #
 # Version: 1.2
-# Author: RIOU GLASS
+# Author: SEBIT
 #
 # Description:
 #   - Se connecte à l’API HYCU
